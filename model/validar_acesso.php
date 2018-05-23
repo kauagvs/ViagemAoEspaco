@@ -5,13 +5,14 @@ session_start();
 require_once("db.class.php");
 
 
-$email = $_POST["email"];
+$idade = $_POST["idade"];
+$nome = $_POST["nome"];
 $senha = md5($_POST["senha"]);
 
 $objDb = new db();
 $link = $objDb->conecta_mysql();
 
-$sql = "select id, email, nome, nivel from usuario where email = '$email' and senha = '$senha' ";
+$sql = "select id, idade, nome, from usuario where email = '$email' and senha = '$senha' ";
 
 $resultado_id = mysqli_query($link, $sql);
 
