@@ -13,7 +13,7 @@
 			</div>
 			<div id="navbar" class="navbar-collapse collapse">
 				<ul class="nav navbar-nav navbar-right">
-				 	<li class="active"><a href="#" data-nav-section="home"><span>Home</span></a></li>
+				 	<li class="active"><a href="/" data-nav-section="home"><span>Home</span></a></li>
 					<li class="active"><a href="#" data-nav-section="services"><span>O jogo</span></a></li>
 					<li class="call-to-action"><a class="sign-up" href="/view/paginas/cadastro/cadastro.php"><span>Cadastre-se</span></a></li>
 					<li class="call-to-action"><a class="log-in" href="/view/paginas/login/login.php"><span>Acessar</span></a></li>

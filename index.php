@@ -28,7 +28,7 @@
 							<h2 class="to-animate"><span>Em uma galáxia muito distante...</span></h2>
 							<div class="row">
 								<div class="col-md-8 col-md-offset-2 subtext">
-									<h3 class="to-animate">O jogo viagem ao espaço oferece a você, jovem viajante, uma experiência única. Aprenda sobre os planetas do nosso sistema solar enquanto acompanha com nosso amigo, Bob Space, a espaço nave dele quebrou e os pedaços se espalharam pelo espaço, ele precisa recuperar as engrenagens para retornar pra casa. Embarque nessa! </h3>
+									<h3 class="to-animate">O jogo viagem ao espaço oferece a você, jovem viajante, uma experiência única. Aprenda sobre os planetas do nosso sistema solar enquanto acompanha com nosso amigo, Marcel, a espaço nave dele quebrou e suas moedas douradas se espalharam pelo espaço, ele precisa recupera-las para retornar pra casa. Embarque nessa! </h3>
 								</div>
 							</div>
 						</div>
@@ -62,7 +62,7 @@
 								</div>
 								<div class="fh5co-post to-animate">
 									<h3>Desvende novos mundos</h3>
-									<p>Garanta que o Bob Space colete todas as engrenagens necessárias para consertar sua espaço nave enquanto se desafia pelos planetas do nosso sistema.</p>
+									<p>Garanta que o Marcel colete todas as moedas perdidas para voltar pra casa, enquanto se desafia pelos planetas do nosso sistema solar.</p>
 								</div>
 							</div>
 

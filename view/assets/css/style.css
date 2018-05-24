@@ -1585,3 +1585,33 @@ h1, h2, h3, h4, h5, h6 {
   width: 350px;
   float: right;
 }
+
+
+
+.menu-logado a {
+    color: black; 
+    display: block; 
+    padding: 12px; 
+    text-decoration: none; 
+}
+
+.menu-logado a:hover {
+    background-color: #ccc;
+}
+
+.menu-logado a.active {
+    background-color: #4CAF50; 
+    color: white;
+}
+
+.ship{
+  background: url(/view/assets/imagens/ship.png) no-repeat !important;
+  background-position:center;
+  background-size: 100% 100%;
+  height:350px;
+  width: 350px;
+  float: right;
+  position: absolute;
+  margin-left: 5% !important;
+}
+
