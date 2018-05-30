@@ -12,7 +12,7 @@
 		<br><br>
 			<h3><center>Olá viajante, insira seus dados para começarmos!</h3></center>
 			<br>
-			<form method="post" action="../model/registro.php" id="formCadastrarse" enctype = "multipart/form-data">
+			<form method="post" action="../../../controller/cadastro_base/cadastro_base.php" id="formCadastrarse" enctype = "multipart/form-data">
 				<div class="form-group">
 					<input type="text" class="form-control" id="nome" name="nome" placeholder="Nome" required="requiored">
 				</div>

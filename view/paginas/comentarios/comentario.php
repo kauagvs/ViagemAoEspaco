@@ -18,11 +18,11 @@
 
 
 
-	<form method="post" action="" id="formCadastrarse" enctype = "multipart/form-data">
+	<form method="post" action="../../../controller/comentario_base/comentario_base.php" id="formCadastrarse" enctype = "multipart/form-data">
      	<div class="col-lg-8" style="margin-left: 20%;">
-		    <textarea class="form-control custom-control" rows="10" style="resize:none"></textarea>    
+		    <textarea class="form-control custom-control" name="comentario" rows="10" style="resize:none"></textarea>    
 		    <br> 
-		    <span class="col-lg-2 btn btn-primary">Enviar</span>
+		    <button type="submit" class="col-lg-2 btn btn-primary">Enviar</button>
 		</div>
 	</form>
        

@@ -12,7 +12,7 @@ private $usuario = "root";
 private $senha = "";
 
 //banco de dados
-private $database = "arrayenterprises";
+private $database = "espaco";
 
   public function conecta_mysql(){
     //criar conexão
