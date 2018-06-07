@@ -33,7 +33,9 @@
 				</div>
 			</div>
 		</div>
-	
+
+	<!-- Ajax -->
+	<script src="/view/assets/js/visualizar_ajax.js"></script>
 	<!-- jQuery -->
 	<script src="/view/assets/js/jquery.min.js"></script>
 	<!-- jQuery Easing -->

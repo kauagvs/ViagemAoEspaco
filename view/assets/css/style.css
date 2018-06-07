@@ -1615,3 +1615,54 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5% !important;
 }
 
+.monkey{
+  
+  background: url(/view/assets/imagens/xito.png) no-repeat !important;
+  background-position:center;
+  background-size: 100% 100%;
+  height:350px;
+  width: 350px;
+  float: right;
+  position: absolute;
+  margin-left: 5% !important;
+}
+
+.speak{
+  
+  background: url(/view/assets/imagens/speak.jpg) no-repeat !important;
+  background-position:center;
+  background-size: 100% 100%;
+  height:350px;
+  width: 350px;
+  float: right;
+  position: absolute;
+  margin-left: 17% !important;
+  margin-top: 2%;
+}
+
+.starship{
+  
+  background: url(/view/assets/imagens/starship.png) no-repeat !important;
+  background-position:center;
+  background-size: 100% 100%;
+  height:350px;
+  width: 350px;
+  float: right;
+  position: absolute;
+  margin-left: 30% !important;
+  margin-top: 10%;
+}
+
+.logout{
+      margin-top: 45%;
+      margin-left: 35%;
+}
+
+.box-comentario {
+  margin-top: 10% !important;
+}
+
+#todos_comentarios {
+  margin-left: 35% !important;
+}
+

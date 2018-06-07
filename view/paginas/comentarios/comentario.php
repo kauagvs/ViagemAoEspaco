@@ -1,22 +1,19 @@
 <?php include ("../../includes/cabecalho/cabecalho.php"); ?>
 	
 	<body>	  
-		<?php include ("../../includes/navbar/menu.php"); ?>
+		<?php include ("../../includes/navbar/menu_logado.php"); ?>
 
 	<div class="container">
 
-
-		<div class="col-md-4"></div>
-		
-		<?php include ("../../includes/navbar/menu_logado.php"); ?>
-		<div class="col-lg-12">
-		<br><br>
-			<br><h3><center>Comente por onde você anda... </h3></center>
-			<br>
+		<div class="box-comentario">
+			<div class="col-md-4" ></div>			
+			<div class="col-lg-12">
+			<br><br>
+				<br><h3><center>Comente por onde você anda... </h3></center>
+				<br>
+			</div>
+			<div class="ship"></div>
 		</div>
-		<div class="ship"></div>
-
-
 
 	<form method="post" action="../../../controller/comentario_base/comentario_base.php" id="formCadastrarse" enctype = "multipart/form-data">
      	<div class="col-lg-8" style="margin-left: 20%;">
