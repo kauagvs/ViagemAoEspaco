@@ -8,10 +8,10 @@
 			<div class="container">
 				<div class="text-wrap">
 					<div class="text-inner">
-						<div class="row" style="display: none;">
+						<div class="row">
 							<div class="col-md-8 col-md-offset-2 text-center">
 								<div class="call-to-action">
-									<a href="#" class="download to-animate"><i class="icon-download"></i> Download</a>
+									<a href="/jogo/jogoeducativo.exe" download class="download to-animate"><i class="icon-download"></i> Download</a>
 								</div>
 							</div>
 						</div>
